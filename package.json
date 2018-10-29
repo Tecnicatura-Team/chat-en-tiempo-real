@@ -1,0 +1,11 @@
+{
+    "name": "chat",
+    "version": "1.0.0",
+    "description": "chat en tiempo real",
+    "dependencies": {
+        "socket.io": "latest",
+        "express": "latest",
+        "jade": "latest"
+    },
+    "author": "Sofelix"
+}
